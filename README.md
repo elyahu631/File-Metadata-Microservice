@@ -1,2 +1,3 @@
-# File-Metadata-Microservice
-A Node.js web application for uploading files and retrieving their metadata. It uses Express.js and multer for handling file uploads. Users can upload any file and receive a JSON response with the file's name, MIME type, and size. Ideal for demonstrating file handling in server-side JavaScript
+# File Metadata Microservice
+
+This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
